@@ -1,0 +1,21 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[packages-dev]
+robotframework-CSVLibrary = "*"
+
+[packages]
+selenium = "*"
+robotframework = "*"
+robotframework-seleniumlibrary = "*"
+webdriver_manager = "*"
+openpyxl = "*"
+
+
+[requires]
+python_version = "3.7"
+
+
+
